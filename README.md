@@ -6,7 +6,7 @@ https://www.udemy.com/course/c-programming-for-beginners-/ <br>
 This repo contains all of my assignment for this course.
 
 ## Table of Content
-Challenge 1 - Writing a C program that display my name
+- Challenge 1 - Writing a C program that display my name
 
 
 ## Proof of Completion
