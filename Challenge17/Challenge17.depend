@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668846130 source:c:\users\afiq\onedrive\documents\github\c_programming_for_beginners_-_master_the_c_language\challenge17\main.c
+	<stdio.h>
+	<stdlib.h>
+
